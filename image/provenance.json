@@ -1,0 +1,11 @@
+{
+  "attestation": {
+    "provider": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "modelId": "mockvision-v1",
+    "issuedAt": 1768693488,
+    "imageCommitment": "0xd0dfc2b2e83e96514de117a742fff8c347cc6379d73fa8de4cb3a9efa41abae3",
+    "nullifier": "0x94e909da1434f3ff06405f2c0d2d025ee1c820f5655d2ed90461f0729216eb3e",
+    "schemaVersion": 1
+  },
+  "signature": "0x2061bd952fb5fb7e3f79ddbd91f80443cfce28e0eb5f6e131fdf6098d18edd0e5f9f7df267f756805360f2cb537f81cdb6bf60da2da611cc67889891440456051c"
+}
